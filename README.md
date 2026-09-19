@@ -43,6 +43,8 @@ Set it up on the kitchen table first. Then have it fitted.
 
 The **[setup guide](geysersense-setup-guide.pdf)** walks each step with the unit's own screens. The **[flyer](geysersense-flyer.pdf)** is the one-page version of this page, for printing or forwarding.
 
+The **[questions sheet](geysersense-faq.pdf)** covers what the guide does not: extending the probe lead, and setting the unit up after it has already been fitted.
+
 ## Keeping it up to date
 
 New firmware is published under **[Releases](https://github.com/KarlOttoFuchs/GeyserSense/releases/latest)**. Download the `.bin` file, open the unit's page, go to Settings › Update, and choose the file. The unit names its current version and the one it is moving to before it starts. A bad image rolls back on its own.
