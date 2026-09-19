@@ -8,7 +8,7 @@
 
 Three checks. If all three are yes, it is.
 
-- Your geyser will get a **Geyserwise GEY013** stem thermostat in place of the one it has now. GeyserSense reads its probe.
+- Your geyser will get a **Geyserwise GEY013** stem thermostat in place of the one it has now. GeyserSense reads its probe. Geyserwise's own video shows the swap on a Kwikot geyser: **[Kwikot thermostat replacement](https://www.youtube.com/watch?v=nG2UvvIah9A)**. It is an electrician's job, but a short one.
 - Your geyser is switched by **rules you control**: Home Assistant, Node-RED, or anything that can read a value and switch a load. Once the GEY013 is in, your rules alone decide the water temperature.
 - There is **WiFi at the geyser**.
 
